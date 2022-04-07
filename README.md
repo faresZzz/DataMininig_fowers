@@ -20,6 +20,8 @@ Afin de pouvoir executer notre programme correctement, vous aurez besoin des bib
 
 Ainsi que de la bibliothèque d'image provenant de ***Kaggle***
 
+:warning: Pour les utilisateur linux, Certain nom de dossier issue de Kaggle présentent des espaces, ainsi assurez vous de supprimer tous les espaces dans les noms de dossiers. Dans ce cas la vous serez contraint de exécuté la partie 2 afin de recharcher le dataset des images avec le bon format.
+
 ### Installation
 Pour commencer vous devers mettre tout les images dans un dossier nommé: **flowers**
 de sorte a obtenir l'arborescence suivante
