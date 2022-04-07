@@ -1,0 +1,22 @@
+{
+  "0": { "userId": 0, "age": 41, "sex": "F", "color": "Purple" },
+  "1": { "userId": 1, "age": 86, "sex": "M", "color": "Tan" },
+  "2": { "userId": 2, "age": 53, "sex": "M", "color": "Cornsilk" },
+  "3": { "userId": 3, "age": 17, "sex": "M", "color": "Brown" },
+  "4": { "userId": 4, "age": 24, "sex": "M", "color": "Brown" },
+  "5": { "userId": 5, "age": 61, "sex": "F", "color": "Lime Green" },
+  "6": { "userId": 6, "age": 83, "sex": "M", "color": "Indigo" },
+  "7": { "userId": 7, "age": 86, "sex": "M", "color": "Beige" },
+  "8": { "userId": 8, "age": 13, "sex": "M", "color": "Dark Sea Green" },
+  "9": { "userId": 9, "age": 35, "sex": "F", "color": "Medium Sea Green" },
+  "10": { "userId": 10, "age": 18, "sex": "M", "color": "Orchid" },
+  "11": { "userId": 11, "age": 42, "sex": "F", "color": "Peru" },
+  "12": { "userId": 12, "age": 59, "sex": "F", "color": "Powder Blue" },
+  "13": { "userId": 13, "age": 17, "sex": "F", "color": "Light Blue" },
+  "14": { "userId": 14, "age": 49, "sex": "M", "color": "Medium Orchid" },
+  "15": { "userId": 15, "age": 90, "sex": "M", "color": "Orchid" },
+  "16": { "userId": 16, "age": 85, "sex": "M", "color": "Maroon" },
+  "17": { "userId": 17, "age": 23, "sex": "F", "color": "Chocolate" },
+  "18": { "userId": 18, "age": 35, "sex": "F", "color": "Slate Blue" },
+  "19": { "userId": 19, "age": 70, "sex": "F", "color": "Tan" }
+}
